@@ -1,8 +1,5 @@
 # Practica Multer & Cloudinary
 
-
-## Cómo Clonar el Proyecto
-
 ### 1. Instalación del Proyecto
 
 Clona el repositorio:
